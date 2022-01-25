@@ -1,0 +1,11 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:akkssh/todos.git",
+  "author": "Akashdeep Samantra <akash.samantra19@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
